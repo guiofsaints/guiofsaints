@@ -3,7 +3,9 @@
 Early adopter, aspiring game developer and loves soda.
 
 🔭 I’m currently working on awesome.md: a project to search awesome links.
+
 🌱 I’m currently learning PaaS and Cloud Native. 
+
  📫 How to reach me:
  - guilhermedossantos91@gmail.com
  - [linkedin](https://www.linkedin.com/in/guilherme-dos-santos/)
