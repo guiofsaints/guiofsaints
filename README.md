@@ -12,7 +12,7 @@ Early adopter, aspiring game developer and loves soda.
  📫 How to reach me:
  
  - guilhermedossantos91@gmail.com
- - [linkedin](https://www.linkedin.com/in/guilherme-dos-santos/)
+ - [Linkedin](https://www.linkedin.com/in/guilherme-dos-santos/)
 
 <!--
 **guidroid/guidroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
