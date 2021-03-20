@@ -14,6 +14,13 @@ Early adopter, aspiring game developer and loves soda.
  - guilhermedossantos91@gmail.com
  - [Linkedin](https://www.linkedin.com/in/guilherme-dos-santos/)
 
+
+
+![Guidroid's github stats](https://github-readme-stats.vercel.app/api?username=guidroid&show_icons=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guidroid&hide=scss&layout=compact)
+
+
 <!--
 **guidroid/guidroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
