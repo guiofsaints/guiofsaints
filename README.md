@@ -6,10 +6,8 @@ Early adopter, aspiring game developer and loves soda.
 
  📫 How to reach me:
  
- - guilhermedossantos91@gmail.com
+ - guilherme@sg.email
  - [Linkedin](https://www.linkedin.com/in/guilherme-dos-santos/)
-
-
 
 ![Guidroid's github stats](https://github-readme-stats.vercel.app/api?username=guidroid&show_icons=true)
 
