@@ -2,12 +2,7 @@
 
 Early adopter, aspiring game developer and loves soda.
 
-🔭 I’m currently working on:
-
-- awesome.md: A project to search awesome links.
-- recruiter.tech: A platform for diversity and inclusion recruitment.
-
-🌱 I’m currently learning PaaS and Cloud Native. 
+🌱 I’m currently learning DX, PaaS and Cloud Native. 
 
  📫 How to reach me:
  
