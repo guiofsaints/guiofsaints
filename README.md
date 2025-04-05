@@ -14,8 +14,8 @@ Currently, I'm leading initiatives that blend community, innovation, and technol
 
 ### 🧰 Skills & Tech Focus
 
-- Platform Engineering • Developer Relations • Inner Source  
-- DX/DevEx • Engineering Career Strategy • Tech Communities  
+- Platform Engineering • Platform Strategy • Inner Source  
+- DX/DevEx • Engineering Career Strategy • Tech Communities
 - Software Engineering • Product Strategy • Technical Leadership  
 
 ### 🌍 Let's Connect!
