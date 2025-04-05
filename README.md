@@ -21,7 +21,7 @@ Currently, I'm leading initiatives that blend community, innovation, and technol
 ### 🌍 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-dos-santos)  
-- 🌐 [Personal Website](https://go.platform.rocks/gui-santos)  
+- 🌐 [Personal Website](https://plat.fm/p/guisantos)  
 - 📬 Email: guilherme@platform.rocks  
 
 ---
