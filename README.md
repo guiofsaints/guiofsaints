@@ -8,7 +8,7 @@ Father, Engineer, CTO, and community builder.
 
 I'm a platform strategist with over 15 years of experience in technology. I've led high-performing teams and driven engineering initiatives at companies like **Stone**, **Neon**, **Creditas**, **Catho**, and **Climatempo**. My work focuses on Platform Engineering, Developer Experience, and scaling communities through Inner Source practices.
 
-Currently, I'm leading two initiatives that blend community, innovation, and technology:
+Currently, I'm leading initiatives that blend community, innovation, and technology:
 
 - 🧠 **[Platform.rocks](https://platform.rocks)** — a community with 1,800+ members, 30k+ exchanged messages, 700+ event attendees, and a newsletter with 4,000+ subscribers. We're building a center of excellence in engineering and AI in Brazil.
 
