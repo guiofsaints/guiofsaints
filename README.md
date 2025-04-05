@@ -11,7 +11,6 @@ I'm a platform strategist with over 15 years of experience in technology. I've l
 Currently, I'm leading two initiatives that blend community, innovation, and technology:
 
 - 🧠 **[Platform.rocks](https://platform.rocks)** — a community with 1,800+ members, 30k+ exchanged messages, 700+ event attendees, and a newsletter with 4,000+ subscribers. We're building a center of excellence in engineering and AI in Brazil.
-- 🕹️ **[Monaco](https://games.monaco.gg/)** — as CTO and co-founder, I'm building a gamification-as-a-service platform for B2B engagement through APIs, SDKs, and mini-games.
 
 ### 🧰 Skills & Tech Focus
 
