@@ -1,6 +1,6 @@
 ## Hey, I'm Gui Santos
 
-Father, Engineer, CTO, and community builder.  
+Father, Engineer, and community builder.  
 
 💚 Passionate about crafting great developer experiences and strengthening the tech ecosystem.
 
