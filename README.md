@@ -10,7 +10,7 @@ I'm a platform strategist with over 15 years of experience in technology. I've l
 
 Currently, I'm leading initiatives that blend community, innovation, and technology:
 
-**[platform.rocks](https://platform.rocks)** — a community with 1,800+ members, 30k+ exchanged messages, 700+ event attendees, and a newsletter with 4,000+ subscribers. We're building a center of excellence in engineering and AI in Brazil.
+**[platform.rocks](https://platform.rocks)** — a community with 1,900+ members, 800+ event attendees, and a newsletter with 4,000+ subscribers. We're building a center of excellence in platform and engineering in Brazil.
 
 ### Skills & Tech Focus
 
