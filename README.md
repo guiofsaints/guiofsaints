@@ -10,7 +10,7 @@ I'm a platform strategist with over 15 years of experience in technology. I've l
 
 Currently, I'm leading initiatives that blend community, innovation, and technology:
 
-**[platform.rocks](https://platform.rocks)** — Building a community-driven platform of excellence in platform and engineering, with +1,900 members dedicated to knowledge exchange and strengthening technical expertise.
+**[platform.rocks](https://platform.rocks)** — Building a community-driven platform of excellence in platform and engineering, with +2000 members dedicated to knowledge exchange and strengthening technical expertise.
 
 ### Skills & Tech Focus
 
